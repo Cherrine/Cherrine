@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cherrine</h1>
-<h3 align="center">A Pianist, Singer that has interest in Coding!</h3>
+<h1 align="left">Hi 👋, I'm Cherrine</h1>
+<h3 align="left">A Pianist, Singer that has interest in Coding!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cherrine&label=Profile%20views&color=0e75b6&style=flat" alt="cherrine" /> </p>
 
